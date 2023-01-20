@@ -30,5 +30,9 @@ An accuracy score of 78.9%, precision score is at 3% for high-risk, and a rate o
 
 ![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/67697826/213805923-46c54d5f-fb20-4a7e-b6d7-5680b9399838.png)
 
+* Easy Ensemble AdaBoost Classifier 
+An accuracy score of  93.2%, precision score is at 9% for high-risk, and a rate of 100% for low-risk. Recall score is 92% for high-risk and 94% for low-risk.
+
+![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/67697826/213806383-46a84dc8-206a-46c2-95af-e070b6036623.png)
 
 ## Summary
