@@ -6,6 +6,8 @@ LendingClub, a peer-to-peer lending services company, would like to develop a fe
 * Naive Random Oversampling 
 
 An accuracy score of 65.7%, a precision score of 1% for high-risk, and a 100% for low-risk. A recall score of 71% for high-risk and 60% for low-risk were produced with this model.
+
+
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/67697826/213802447-e8d465fb-2b1a-439a-8850-785516b8e243.png)
 
 
