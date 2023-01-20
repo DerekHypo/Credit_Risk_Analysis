@@ -25,6 +25,10 @@ An accuracy score of 68.8%, precision score is at 1% for high-risk, and a rate o
 
 ![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/67697826/213804719-68d346e7-9962-45a9-abdc-fa3aa96d1117.png)
 
+* Balanced Random Forest Classifier 
+An accuracy score of 78.9%, precision score is at 3% for high-risk, and a rate of 100% for low-risk. Recall score is 70% for high-risk and 87% for low-risk.
+
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/67697826/213805923-46c54d5f-fb20-4a7e-b6d7-5680b9399838.png)
 
 
 ## Summary
